@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flandre-se12
 - 👀 I’m interested in Touhou Project + Linux compatibility
 - 🌱 I’m currently learning Lua for Polytoria
-- 📫 How to reach me Email: rxkegxf75@mozmail.com
+- 📫 How to reach me Email: rxkegxf75@mozmail.com (your email will be returned by a different email)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I daily run Linux, My distros are Fedora (Cinnamon Spin) and Linux Mint
