@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flandre-se12
-- 👀 I’m interested in Touhou Project + Linux compatibility
+- 👀 I’m interested in Touhou Project, Puella Magia Madoka Magica + Linux compatibility
 - 🌱 I’m currently learning Lua for Polytoria
 - 📫 How to reach me Email: rxkegxf75@mozmail.com (your email will be returned by a different email)
 - 😄 Pronouns: She/Her
